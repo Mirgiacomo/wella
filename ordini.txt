@@ -1,0 +1,94 @@
+T1031390868TEA                                VIA  CARAVAGGIO (12 PIANO) 288     NAPOLI                             801260109NA093                                   164164                                   06021906202403   
+R103139086881630873          00005
+R103139086881630913          00005
+T1031390961AMA                                VIALE MONTE GRAPPA 3/5             MILANO                             201240509MI093                                   249249                                   06021906202401   
+R103139096181630873          00024
+T1031390974AMA                                VIALE MONTE GRAPPA 3/5             MILANO                             201240509MI093                                   249249                                   06021906202402   
+R103139097481630873          00001
+TORDPBL1   TEA                                VIA  CARAVAGGIO (12 PIANO) 288     NAPOLI                             801260109NA093                                   067143                                   1502BAT0000030   
+RORDPBL1   99350107909       00001
+TORDPBL1803AMA                                VIALE MONTE GRAPPA 3/5             MILANO                             201240509MI093                                   179179                                   5002BAT0000021   
+
+T3031391287TEA                                VIA  CARAVAGGIO (12 PIANO) 288     NAPOLI                             801269909NA093                                   164164                                   06021906202404   
+
+T3031391286TEA                                VIA  CARAVAGGIO (12 PIANO) 288     NAPOLI                             801260109NA093                                   164164                                   06021906202405   
+
+T3031391308LUI                                VIA DELLE PALANCA 17               SCURELLE                           380501109TN093                                   172047                                   1002LB 19.06.2024 15:51   
+
+T3031391310ALE                                VIA V. GIOBERTI 53/B               TORINO                             101281109TO093                                   049049                                   5802LB - 19.06.2024 16:00   
+
+T3031391310ALE                                VIA V. GIOBERTI 53/B               TORINO                             101281109TO093                                   049049                                   5802lb- 19.06.2024 16:20   
+
+T3031391316G.B                                PZA  SANT'OLIVA 33/34              PALERMO                            901411509PA093                                   032032                                   7202LB 20.06.2024 9:58   
+
+T3031391321SAV                                VIA PER CARPENEDOLO C.M.           CASTIGLIONE DELLE STIVIERE         460439909MN093                                   260189                                   1502LB 20.06.2024 9:16   
+
+T5031391049TEA                                VIA  CARAVAGGIO (12 PIANO) 288     NAPOLI                             801260109NA093                                   164164                                   06025031391049   
+
+:06   
+
+T3031391328LO                                 VIA  MANZONI 2B                    OMEGNA                             288870109VB093                                   181156                                   8502LB 20.06.2024 11:00   
+R303139132899350118474       00012
+T3031391316G.B                                PZA  SANT'OLIVA 33/34              PALERMO                            901411509PA093                                   032032                                   7202ADV-20062024-14:23   
+
+T3031391346FOR                                VIA  F.MARCHETTI 40 40             ANCONA                             601250109AN093                                   066140                                   2502ADV-20062024-14:51   
+
+T3031391374HAI                                PZA  MARCONI 1/C                   VETTO                              420200109RE093                                   223223                                   2402LB - 21-06.2024 11:02   
+
+T3031391375CAP                                VIA  FOSSO DEL CANNETO 32/F        GALAZZANO                          47891130999093                                   131131                                   6202LB - 21-06.2024 11:28   
+
+T3031391375CAP                                VIA  FOSSO DEL CANNETO 32/F        GALAZZANO                          47891350999093                                   131131                                   6202LB - 21-06.2024 - 12:10   
+
+TPG-PBL003                                    VIA DON CANALI 27                  BULCIAGO                           238921109LC093                                   202202                                   2802PGW022       
+RPG-PBL003 99240011837       00012
+RPG-PBL003 99240014151       00012
+TPG-PBL003                                    VIA DON CANALI 27                  BULCIAGO                           238921109LC093                                   202202                                   2802PGW022       
+RPG-PBL003 99240011837       00012
+RPG-PBL003 99240014151       00012
+T3031391548I P                                VIA  CHIESA 1                      RETTORGOLE                         360300109VI093                                   214214                                   93020000000139   
+R303139154899350134871       00024
+T3031391441WEL                                Via Mauro Macchi 40                MILANO                             201249909MI093                                   249249                                   06020000000144   
+
+T3031391580I P                                VIA  CHIESA 1                      RETTORGOLE                         360300109VI093                                   214214                                   93020000000145   
+
+T3031391474NIR                                VIA F.LLI ROSSELLI 53              MELICUCCO                          890203109RC093                                   015157                                   11020000000146   
+
+T3031391428WEL                                Via Mauro Macchi 40                MILANO                             201243609MI093                                   179179                                   50020000000148   
+
+T3031391567DC                                 ZEPPELINSTRASSE, 10.               Weiterstadt                        64331FF0999093                                   116311                                   11020000000149   
+
+T1131391447ELI                                VIA EUROPA-C/C LE VELE 1¦PIANO 27  CURNO                              240350109BG093                                   093228                                   50020000000150   
+
+T3031391577ELL                                VIA  DEI PACERI 36/A               FALCIANO  (RSM)                    47891130999093                                   131024                                   10020000000151   
+R303139157799350104753       00060
+T3031391587DIV                                VIA UMBERTO I 21                   CAMPOFELICE DI ROCCELLA            900101509PA093                                   032032                                   10020000000154   
+R303139158799350105354       00060
+T1131391448ELI                                VIA EUROPA-C/C LE VELE 1¦PIANO 27  CURNO                              240350109BG093                                   249249                                   54020000000155   
+R113139144881638897          00003
+T3031391580I P                                VIA  CHIESA 1                      RETTORGOLE                         360300109VI093                                   006041                                   13020000000157   
+R303139158099350039023       00060
+T3031391584G.B                                PZA  SANT'OLIVA 33/34              PALERMO                            901411509PA093                                   032032                                   20020000000158   
+R303139158481630913          00120
+T3031391656GIA                                VIA SFERRACAVALLO 142/A            PALERMO                            901473509PA093                                   032148                                   13020000000159   
+
+T3031391650G.B                                PZA  SANT'OLIVA 33/34              PALERMO                            901411509PA093                                   032032                                   20020000000160   
+R303139165099350148772       00060
+T3031391650G.B                                PZA  SANT'OLIVA 33/34              PALERMO                            901411509PA093                                   032032                                   20020000000161   
+R303139165099350148772       00012
+T3031391582I P                                VIA  CHIESA 1                      RETTORGOLE                         360300109VI093                                   006041                                   13020000000162   
+R303139158299350039023       00060
+T3031391650G.B                                PZA  SANT'OLIVA 33/34              PALERMO                            901411509PA093                                   032032                                   20020000000161   
+R303139165099350148772       00012
+T3031391670MOD                                PZA  VOLTA 17                      COMO                               221009909CO093                                   181096                                   40020000000163   
+
+T3031391681LUI                                P.ZZA SAN GIOVANNI 2               TELVE VALSUGANA                    380501509TN093                                   172047                                   10020000000165   
+R303139168199350175355       00120
+T3031391652GEO                                VIALE GRAMSCI 88/B                 BARBERINO DEL MUGELLO              500311309FI093                                   224224                                   22020000000166   
+
+T3031391684I P                                VIA  CHIESA 1                      RETTORGOLE                         360300109VI093                                   006041                                   13020000000168   
+R303139168481639008          00006
+R303139168481639044          00012
+R303139168481650329          00018
+R303139168499350079626       00012
+R303139168499350086154       00006
+R303139168499350086179       00003
